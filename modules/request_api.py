@@ -1,8 +1,6 @@
 import requests
 #
-from .read_json import read_json
-#
-from .write_json import write_json
+from .wr_json import read_json, write_json
 #
 import json
 #
